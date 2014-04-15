@@ -60,7 +60,7 @@ complaints
 
 # <codecell>
 
-#Here it tried out some mapping stuff, which didn't work. But let's keep the code for later. 
+#Here I tried out some mapping stuff, which didn't work. But let's keep the code for later. 
 
 # from urllib import urlretrieve
 # url = "http://www.nyc.gov/html/dcp/download/bytes/nybb_13a.zip"
